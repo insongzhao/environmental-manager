@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/envma/module/core/backend/backend.iml" filepath="$PROJECT_DIR$/envma/module/core/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/envma/module/common/common.iml" filepath="$PROJECT_DIR$/envma/module/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/envma/module/core/core.iml" filepath="$PROJECT_DIR$/envma/module/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/envma/envma.iml" filepath="$PROJECT_DIR$/envma/envma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/envma/module/core/frontend/frontend.iml" filepath="$PROJECT_DIR$/envma/module/core/frontend/frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/envma/module/module.iml" filepath="$PROJECT_DIR$/envma/module/module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/envma/startup/startup.iml" filepath="$PROJECT_DIR$/envma/startup/startup.iml" />
+    </modules>
+  </component>
+</project>
